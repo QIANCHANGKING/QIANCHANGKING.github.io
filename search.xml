@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>使用基于Hexo框架搭载的博客发表博文</title>
+      <link href="/2023/05/18/first-one/"/>
+      <url>/2023/05/18/first-one/</url>
+      
+        <content type="html"><![CDATA[<p>#创建新的博文<br>在终端中，进入到您的 Hexo 站点目录，然后运行以下命令：<br>‘hexo new “Post Title”‘<br>将创建一个新的 markdown 文件在 source&#x2F;_posts 目录下，文件名将是你的文章标题。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/05/17/hello-world/"/>
       <url>/2023/05/17/hello-world/</url>
