@@ -8,7 +8,7 @@
       <link href="/2023/05/18/first-one/"/>
       <url>/2023/05/18/first-one/</url>
       
-        <content type="html"><![CDATA[<h1 id="创建新的博文"><a href="#创建新的博文" class="headerlink" title="创建新的博文"></a>创建新的博文</h1><p>在终端中，进入到您的 Hexo 站点目录，然后运行以下命令：<br>‘’’<br>markdown<br>hexo new “Post Title”<br>‘’’<br>将创建一个新的 markdown 文件在‘source&#x2F;_posts’目录下，文件名将是你的文章标题。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="创建新的博文"><a href="#创建新的博文" class="headerlink" title="创建新的博文"></a>创建新的博文</h1><p>在终端中，进入到您的 Hexo 站点目录，然后运行以下命令：   </p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new &quot;Post Title&quot; </span><br></pre></td></tr></table></figure><p>将创建一个新的 markdown 文件在‘source&#x2F;_posts’目录下，文件名将是你的文章标题。</p>]]></content>
       
       
       
